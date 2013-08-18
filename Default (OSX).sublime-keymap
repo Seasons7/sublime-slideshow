@@ -1,0 +1,7 @@
+[
+    {
+        "keys": ["super+shift+ctrl+s"],
+        "command": "slideshow",
+        "args": {"command":"build"}
+    }
+]

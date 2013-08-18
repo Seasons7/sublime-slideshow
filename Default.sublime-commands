@@ -1,0 +1,12 @@
+[
+	{
+	    "command": "slideshow",
+	    "caption": "Slideshow: Build",
+	    "args": {"command":"build"}
+	},
+	{
+	    "command": "slideshow",
+	    "caption": "Slideshow: Select template",
+	    "args": {"command":"select_template"}
+	}
+]

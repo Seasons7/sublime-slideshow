@@ -25,7 +25,7 @@ If you had installed slideshow, please check below command on your terminal.
 You can install it from [Package Control](https://sublime.wbond.net). This method will allow ou to keep the plugin up to date with the latest changes.
 
 
-### Clonse from GitHub
+### Clone from GitHub
 
 You can also just clone the repo to your package directory if for some reason you do not wish to use package control.
 

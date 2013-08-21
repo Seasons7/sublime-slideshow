@@ -12,7 +12,7 @@ Things you can do with this plugin are:
 You have to set-up slideshow command on your PC.
 Please see detail information below website.
 
-[slideshow](http://slideshow.rubyforge.org)
+[slideshow](http://slideshow-s9.github.io/)
 
 If you had installed slideshow, please check below command on your terminal.
 
